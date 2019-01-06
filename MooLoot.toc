@@ -1,0 +1,22 @@
+## Interface: 30100
+## Title: |cFF00FF00Moo|rLoot
+## Notes: Master Looting for Cows
+## Author: Chips
+## Version: 0.51
+## SavedVariables: MooLootDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3, Dewdrop-2.0
+## X-Category: Interface Enhancements
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\AceLibrary\AceLibrary.lua
+Libs\Dewdrop-2.0\Dewdrop-2.0.lua
+Locale-enUS.lua
+MooLoot.lua

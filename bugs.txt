@@ -1,0 +1,24 @@
+[2009/06/21 22:47:12-2234-x1]: MooLoot-0.51\MooLoot.lua:609: invalid replacement value (a table)
+MooLoot-0.51\MooLoot.lua:609: in function `FormatMessage'
+MooLoot-0.51\MooLoot.lua:671: in function `FormatToChat'
+MooLoot-0.51\MooLoot.lua:444: in function `StartRoll'
+MooLoot-0.51\MooLoot.lua:573: in function `RollEnded'
+MooLoot-0.51\MooLoot.lua:493: in function <Interface\AddOns\MooLoot\MooLoot.lua:485>
+(tail call): ?:
+<in C code>: ?
+<string>:"safecall Dispatcher[2]":9: in function <[string "safecall Dispatcher[2]"]:5>
+(tail call): ?:
+AceTimer-3.0-5 (Ace3):158: in function <Interface\AddOns\Ace3\AceTimer-3.0\AceTimer-3.0.lua:132>
+
+  ---
+
+[2009/06/21 22:47:59-2234-x2]: MooLoot-0.51\MooLoot.lua:789: attempt to call local 'warn' (a string value)
+MooLoot-0.51\MooLoot.lua:839: in function `BuildClassMenus'
+MooLoot-0.51\MooLoot.lua:1072: in function <Interface\AddOns\MooLoot\MooLoot.lua:896>
+Dewdrop-2.0-90320 (FuBar):1894: in function <...erface\AddOns\FuBar\libs\Dewdrop-2.0\Dewdrop-2.0.lua:1843>
+Dewdrop-2.0-90320 (FuBar):2779: in function <...erface\AddOns\FuBar\libs\Dewdrop-2.0\Dewdrop-2.0.lua:2738>
+Dewdrop-2.0-90320 (FuBar):630: in function <...erface\AddOns\FuBar\libs\Dewdrop-2.0\Dewdrop-2.0.lua:614>
+
+  ---
+  
+  
